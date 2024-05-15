@@ -36,7 +36,7 @@ public class SimpleCalculatorTest {
                 calculator.divide(1, 0));
         assertEquals("Division by zero is not allowed", exception.getMessage());
     }
-//hallo
+//hallo hallo
     // Weitere Testfälle für subtract, multiply und divide hier einfügen
 }
 
